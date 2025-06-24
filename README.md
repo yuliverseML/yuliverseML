@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @yuliverseML- Yuliya Kononenko
 - 👀 I’m interested in building intelligent systems, implementing ML practices, and exploring AI-driven solutions that can make a meaningful impact.
 
-https://github.com/yuliverseML/regression_model-comparison Machine Learning Model Comparison for Tips Prediction
+
+🔗 [**Regression Models Comparison**](https://github.com/yuliverseML/comparing_regression_models/tree/main)  
 
 
 - 🌱 My interest relates to advanced deep learning frameworks, model interpretability techniques, and best practices in data engineering. I'm also diving deeper into learning advanced topics in reinforcement learning and computer vision.
