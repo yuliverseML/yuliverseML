@@ -4,7 +4,6 @@
 
 🔗 [**Regression Models Comparison**](https://github.com/yuliverseML/comparing_regression_models/tree/main)  
 🔗 [**Image Classification**](https://github.com/yuliverseML/classification_images_MobileNetV2)
-
 🔗 [**Imbalanced Binary Classification**](https://github.com/yuliverseML/Imbalanced-Binary-Classification)
 
 
