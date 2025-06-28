@@ -4,7 +4,8 @@
 
 🔗 [**Regression Models Comparison**](https://github.com/yuliverseML/comparing_regression_models/tree/main)  
 🔗 [**Image Classification**](https://github.com/yuliverseML/classification_images_MobileNetV2)  
-🔗 [**Imbalanced Binary Classification**](https://github.com/yuliverseML/Imbalanced-Binary-Classification)
+🔗 [**Imbalanced Binary Classification**](https://github.com/yuliverseML/Imbalanced-Binary-Classification)       
+🔗 [**Clustering Analysis** - Mall Customer Segmentation](https://github.com/yuliverseML/Customer-Segmentation-Clustering)
 
 
 - 🌱 My interest relates to advanced deep learning frameworks, model interpretability techniques, and best practices in data engineering. I'm also diving deeper into learning advanced topics in reinforcement learning and computer vision.
