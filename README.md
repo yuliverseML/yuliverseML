@@ -6,7 +6,9 @@
 🔗 [**Image Classification**](https://github.com/yuliverseML/classification_images_MobileNetV2)  
 🔗 [**Imbalanced Binary Classification**](https://github.com/yuliverseML/Imbalanced-Binary-Classification)       
 🔗 [**Clustering Analysis** - Mall Customer Segmentation](https://github.com/yuliverseML/Customer-Segmentation-Clustering)       
-🔗 [**Disease Detector** - Medical Diagnosis System](https://github.com/yuliverseML/detection_of_medical_diseases)
+🔗 [**Disease Detector** - Medical Diagnosis System](https://github.com/yuliverseML/detection_of_medical_diseases)       
+🔗 [**Housing Price Prediction Model** - Comparative Analysis of Regression Techniques](https://github.com/yuliverseML/Housing-Price-Prediction-Model)  
+
 
 
 
