@@ -5,7 +5,7 @@
 🔗 [**Tour & Travels Churn Prediction** - Predicting Travel Customer Attrition](https://github.com/yuliverseML/Tour-Travels-Customer-Churn-Prediction)      
 🔗 [**Regression Models Comparison** - Tips Prediction](https://github.com/yuliverseML/comparing_regression_models/tree/main)                 
 🔗 [**Image Classification** - Cats vs Dogs with MobileNetV2 ](https://github.com/yuliverseML/classification_images_MobileNetV2)               
-🔗 [**Imbalanced Binary Classification**](https://github.com/yuliverseML/Imbalanced-Binary-Classification)       
+🔗 [**Imbalanced Binary Classification** - Credit Card Fraud Detection System](https://github.com/yuliverseML/Imbalanced-Binary-Classification)       
 🔗 [**Clustering Analysis** - Mall Customer Segmentation](https://github.com/yuliverseML/Customer-Segmentation-Clustering)       
 🔗 [**Disease Detector** - Medical Diagnosis System](https://github.com/yuliverseML/detection_of_medical_diseases)       
 🔗 [**Housing Price Prediction Model** - Comparative Analysis of Regression Techniques](https://github.com/yuliverseML/Housing-Price-Prediction-Model)  
