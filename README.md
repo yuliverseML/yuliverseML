@@ -2,8 +2,8 @@
 - 👀 I’m interested in building intelligent systems, implementing ML practices, and exploring AI-driven solutions that can make a meaningful impact.
 
 🔗 [**Bank Deposit Prediction**](https://github.com/yuliverseML/bank-deposit-subscription-prediction)          
-🔗 [**Regression Models Comparison**](https://github.com/yuliverseML/comparing_regression_models/tree/main) - Tips Prediction         
-🔗 [**Image Classification**](https://github.com/yuliverseML/classification_images_MobileNetV2) - Cats vs Dogs with MobileNetV2          
+🔗 [**Regression Models Comparison** - Tips Prediction](https://github.com/yuliverseML/comparing_regression_models/tree/main)                 
+🔗 [**Image Classification** - Cats vs Dogs with MobileNetV2 ](https://github.com/yuliverseML/classification_images_MobileNetV2)               
 🔗 [**Imbalanced Binary Classification**](https://github.com/yuliverseML/Imbalanced-Binary-Classification)       
 🔗 [**Clustering Analysis** - Mall Customer Segmentation](https://github.com/yuliverseML/Customer-Segmentation-Clustering)       
 🔗 [**Disease Detector** - Medical Diagnosis System](https://github.com/yuliverseML/detection_of_medical_diseases)       
