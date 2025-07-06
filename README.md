@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yuliverseML- Yuliya Kononenko
 - 👀 I’m interested in building intelligent systems, implementing ML practices, and exploring AI-driven solutions that can make a meaningful impact.
 
-🔗 [**Bank Deposit Prediction**](https://github.com/yuliverseML/bank-deposit-subscription-prediction)          
+🔗 [**Bank Deposit Prediction** - Classification for Financial Product Adoption Prediction](https://github.com/yuliverseML/bank-deposit-subscription-prediction)          
 🔗 [**Regression Models Comparison** - Tips Prediction](https://github.com/yuliverseML/comparing_regression_models/tree/main)                 
 🔗 [**Image Classification** - Cats vs Dogs with MobileNetV2 ](https://github.com/yuliverseML/classification_images_MobileNetV2)               
 🔗 [**Imbalanced Binary Classification**](https://github.com/yuliverseML/Imbalanced-Binary-Classification)       
