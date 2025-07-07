@@ -3,7 +3,8 @@
 
 🔗 [**Bank Deposit Prediction** - Classification for Financial Product Adoption Prediction](https://github.com/yuliverseML/bank-deposit-subscription-prediction)     
 🔗 [**Tour & Travels Churn Prediction** - Predicting Travel Customer Attrition](https://github.com/yuliverseML/Tour-Travels-Customer-Churn-Prediction)      
-🔗 [**Regression Models Comparison** - Tips Prediction](https://github.com/yuliverseML/comparing_regression_models/tree/main)                 
+🔗 [**Regression Models Comparison** - Tips Prediction](https://github.com/yuliverseML/comparing_regression_models/tree/main)  
+🔗 [**Recommendation System** - _Movie-Recommendation](https://github.com/yuliverseML/recommendation_system)          
 🔗 [**Image Classification** - Cats vs Dogs with MobileNetV2 ](https://github.com/yuliverseML/classification_images_MobileNetV2)        
 🔗 [**Predictive_Maintenance** - Equipment_Failure](https://github.com/yuliverseML/Prediction-of-equipment-failures/tree/main)        
 🔗 [**Imbalanced Binary Classification** - Credit Card Fraud Detection System](https://github.com/yuliverseML/Imbalanced-Binary-Classification)       
