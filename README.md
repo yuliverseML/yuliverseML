@@ -3,7 +3,7 @@
 
 🔗 [**Bank Deposit Prediction** - Classification for Financial Product Adoption Prediction](https://github.com/yuliverseML/bank-deposit-subscription-prediction)     
 🔗 [**Tour & Travels Churn Prediction** - Predicting Travel Customer Attrition](https://github.com/yuliverseML/Tour-Travels-Customer-Churn-Prediction)       
-🔗 [**Supermarket Sales Prediction**](https://github.com/yuliverseML/Supermarket-Sales-Prediction)  
+🔗 [**Supermarket Sales Prediction** - SmartSales Analytics](https://github.com/yuliverseML/Supermarket-Sales-Prediction)  
 🔗 [**Regression Models Comparison** - Tips Prediction](https://github.com/yuliverseML/comparing_regression_models/tree/main)  
 🔗 [**Recommendation System** - _Movie-Recommendation](https://github.com/yuliverseML/recommendation_system)   
 🔗 [**Potential Customer Prediction** - Lead_Scoring-Potential_Customer](https://github.com/yuliverseML/Potential_Customer_Prediction)       
